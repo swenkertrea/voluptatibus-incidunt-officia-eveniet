@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@swenkertrea/voluptatibus-incidunt-officia-eveniet",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,36 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/swenkertrea/voluptatibus-incidunt-officia-eveniet.git"
   },
   "dependencies": {
+    "@diotobtea/aut-beatae-molestiae-ipsum": "^1.0.0",
+    "@diotobtea/corrupti-quos-neque-dolores": "^1.0.0",
+    "@diotobtea/quaerat-optio-qui-totam": "^1.0.0",
+    "@diotobtea/reprehenderit-alias-cum-consectetur": "^1.0.0",
+    "@diotobtea/tempora-vitae-dolorem-molestias": "^1.0.0",
+    "@erboladaiteas/aperiam-vitae-accusamus-fugiat": "^1.0.0",
+    "@erboladaiteas/earum-non-facere-mollitia": "^1.0.0",
+    "@erboladaiteas/in-cum-autem-corporis": "^1.0.0",
+    "@erboladaiteas/ipsa-officiis-eaque-provident": "^1.0.0",
+    "@erboladaiteas/mollitia-vero-consequatur-nihil": "^1.0.0",
+    "@erboladaiteas/quasi-ullam-placeat-consequuntur": "^1.0.0",
+    "@erboladaiteas/tempore-repudiandae-ullam-nulla": "^1.0.0",
+    "@hishpr/a-nesciunt-iusto-illo": "^1.0.0",
+    "@hishpr/architecto-dolores-molestiae-at": "^1.0.0",
+    "@hishpr/eius-amet-perspiciatis-atque": "^1.0.0",
+    "@hishpr/excepturi-beatae-at-inventore": "^1.0.0",
+    "@hishpr/mollitia-sequi-ut-nulla": "^1.0.0",
+    "@hishpr/quidem-harum-alias-natus": "^1.0.0",
+    "@hishpr/vel-nulla-eos-voluptatum": "^1.0.0",
+    "@patrten/fugiat-officiis-placeat-eius": "^1.0.0",
+    "@patrten/odit-voluptas-porro-facilis": "^1.0.0",
+    "@patrten/voluptate-quasi-facilis-minima": "^1.0.0",
+    "@taktikangea/beatae-eligendi-beatae-aliquam": "^1.0.0",
+    "@taktikangea/delectus-atque-vero-error": "^1.0.0",
+    "@taktikangea/eligendi-hic-ab-voluptatum": "^1.0.0",
+    "@taktikangea/nesciunt-est-ex-alias": "^1.0.0",
+    "@taktikangea/quo-nobis-aspernatur-eligendi": "^1.0.0",
+    "@taktikangea/voluptas-eum-ducimus-sequi": "^1.0.0"
   }
 }
